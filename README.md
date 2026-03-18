@@ -64,10 +64,12 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ <img width="531" height="225" alt="Screenshot 2026-03-18 133008" src="https://github.com/user-attachments/assets/ccacafdb-c244-4a48-bf58-fde1cb8f8508" />
+
 
 
 b.  KCL:
+<img width="519" height="217" alt="Screenshot 2026-03-18 133024" src="https://github.com/user-attachments/assets/6307263c-00b2-455d-afac-821e9af373b1" />
 
 
 
