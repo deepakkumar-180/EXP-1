@@ -46,16 +46,13 @@ a.KVL
  <img width="378" height="452" alt="Screenshot 2026-03-18 132454" src="https://github.com/user-attachments/assets/021b022c-2e7c-4d75-8e69-e667b8e4a041" />
 
 
-
 b.  KCL:
  <img width="385" height="385" alt="Screenshot 2026-03-18 132510" src="https://github.com/user-attachments/assets/947aee7a-bcf6-4e32-8ff2-a8f17a07cc75" />
 
 
 Calculation:
-
 a.   KVL:
  <img width="457" height="301" alt="Screenshot 2026-03-18 132757" src="https://github.com/user-attachments/assets/26400e95-237a-46c5-b704-9fc0ceeb48f4" />
-
 
 
 b.  KCL:
